@@ -120,6 +120,7 @@ p {
 	padding: 10px;
 	min-width: 200px;
 	margin-bottom: 50px;
+	transition: transform 0.5s;
 }
 
 .col-4 img {
@@ -157,4 +158,8 @@ h4 {
 
 .rating .custom-star {
 	color: #ff523b;
+}
+
+.col-4:hover {
+	transform: translateY(-5px);
 }
