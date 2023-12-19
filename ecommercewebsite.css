@@ -418,6 +418,11 @@ input:focus {
 	outline: none;
 }
 
+.single-product .custom-indent {
+	color: #ff523b;
+	margin-left: 10px;
+}
+
 
 /*----------- media query for less than 600 screen size --------*/
 
